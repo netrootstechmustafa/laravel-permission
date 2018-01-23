@@ -3,3 +3,6 @@ composer.lock
 docs
 vendor
 tests/temp
+/vendor
+/.idea
+/.vagrant
